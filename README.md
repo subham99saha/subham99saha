@@ -21,11 +21,11 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/subham99saha/shipment-management-dashboard/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-24.png" height="150" width="250" />
+    <img src="https://raw.githubusercontent.com/subham99saha/shipment-management-dashboard/refs/heads/main/snaps/2022-05-24.png" height="150" width="33%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/subham99saha/ecommerce-price-scraper-comparer/blob/main/README.md">
-    <img src="https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20181822.png" height="150" width="250" />
+    <img src="https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20181822.png" height="150" width="33%" />
   </a>
 </p>
 <!--
