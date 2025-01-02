@@ -11,7 +11,8 @@
 ![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap)
 
 **VERSION CONTROL, TESTING, CRMs, ASSET MANAGEMENT**
-[![My Skills](https://skillicons.dev/icons?i=git,github,jest,wordpress,ps,pr)](https://www.linkedin.com/in/subham99saha/)
+
+![![My Skills](https://skillicons.dev/icons?i=git,github,jest,wordpress,ps,pr)](https://www.linkedin.com/in/subham99saha/)
 
 <!--
 **subham99saha/subham99saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
