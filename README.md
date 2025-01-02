@@ -16,8 +16,8 @@
 
 # GALLERY
 <p float="left">
-  <a style="text-decoration: none" href="https://github.com/subham99saha/travel-crm/blob/main/README.md">
-    <img src="https://camo.githubusercontent.com/ed16c45a0e8f98d8810c48e64900f046496701294c8ddb6e371a884d9bf711e6/68747470733a2f2f692e696d67686970706f2e636f6d2f66696c65732f6a72313439376763452e706e67" height="150" width="250" />
+  <a href="https://github.com/subham99saha/travel-crm/blob/main/README.md">
+    <img src="https://camo.githubusercontent.com/ed16c45a0e8f98d8810c48e64900f046496701294c8ddb6e371a884d9bf711e6/68747470733a2f2f692e696d67686970706f2e636f6d2f66696c65732f6a72313439376763452e706e67" height="150" width="33%" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/subham99saha/shipment-management-dashboard/blob/main/README.md">
