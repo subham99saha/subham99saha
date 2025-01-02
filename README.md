@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,redux,mongodb,mysql,electron,html,css,tailwind,bootstrap,git,github,jest,wordpress,ps,pr)](https://skillicons.dev)
 
 <!--
 **subham99saha/subham99saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
