@@ -27,6 +27,10 @@
   <a href="https://github.com/subham99saha/ecommerce-price-scraper-comparer/blob/main/README.md">
     <img src="https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20181822.png" height="150" width="250" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/subham99saha/ecommerce-price-scraper-comparer/blob/main/README.md">
+    <img src="https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20181822.png" height="150" width="250" />
+  </a>
 </div>
 <!--
 **subham99saha/subham99saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
