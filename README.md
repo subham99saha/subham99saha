@@ -4,13 +4,14 @@
 
 **BACK-END**
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,electron,mongodb,mysql)
 
 **FRONT-END**
 
-![My Skills](https://skillicons.dev/icons?i=react,redux,electron,html,css,tailwind,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap)
 
-[![My Skills](https://skillicons.dev/icons?i=electron,jest,wordpress,ps,pr,git,github)](https://www.linkedin.com/in/subham99saha/)
+**VERSION CONTROL, TESTING, CRMs, ASSET MANAGEMENT**
+[![My Skills](https://skillicons.dev/icons?i=git,github,jest,wordpress,ps,pr)](https://www.linkedin.com/in/subham99saha/)
 
 <!--
 **subham99saha/subham99saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
