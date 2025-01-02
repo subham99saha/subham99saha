@@ -1,7 +1,9 @@
 **MAIN STACK**
 ![My Skills](https://skillicons.dev/icons?i=js,ts)
+
 **BACK-END**
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
 **FRONT-END**
 ![My Skills](https://skillicons.dev/icons?i=react,redux,electron,html,css,tailwind,bootstrap)
 
