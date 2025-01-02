@@ -1,10 +1,13 @@
 **MAIN STACK**
+
 ![My Skills](https://skillicons.dev/icons?i=js,ts)
 
 **BACK-END**
+
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
 **FRONT-END**
+
 ![My Skills](https://skillicons.dev/icons?i=react,redux,electron,html,css,tailwind,bootstrap)
 
 [![My Skills](https://skillicons.dev/icons?i=electron,jest,wordpress,ps,pr,git,github)](https://www.linkedin.com/in/subham99saha/)
