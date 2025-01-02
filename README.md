@@ -1,4 +1,10 @@
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,redux,mongodb,mysql,electron,html,css,tailwind,bootstrap,jest,wordpress,ps,pr,git,github)](https://skillicons.dev)
+**MAIN STACK**
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://www.linkedin.com/in/subham99saha/)
+**BACK-END**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://www.linkedin.com/in/subham99saha/)
+**FRONT-END**
+[![My Skills](https://skillicons.dev/icons?i=react,redux,electron,html,css,tailwind,bootstrap)](https://www.linkedin.com/in/subham99saha/)
+[![My Skills](https://skillicons.dev/icons?i=electron,jest,wordpress,ps,pr,git,github)](https://www.linkedin.com/in/subham99saha/)
 
 <!--
 **subham99saha/subham99saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
