@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,jest,wordpress,ps,pr)](https://www.linkedin.com/in/subham99saha/)
 
-# GALLERY
+# GALLERY new
 <div style="display: grid; grid-template-columns: repeat(3, 1fr);">
 
 <div style="overflow: hidden; height: 150px; border: 2px solid green; grid-column: 1; grid-row: 1;">
